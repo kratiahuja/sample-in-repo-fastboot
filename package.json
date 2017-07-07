@@ -45,5 +45,8 @@
     "paths": [
       "lib/fastboot-import"
     ]
+  },
+  "dependencies": {
+    "ember-cli-fastboot": "^1.0.0-rc.5"
   }
 }
