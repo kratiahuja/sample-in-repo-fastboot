@@ -1,0 +1,6 @@
+{
+  "name": "sample-in-repo-fastboot",
+  "dependencies": {
+    "slick-carousel": "1.6.0"
+  }
+}
